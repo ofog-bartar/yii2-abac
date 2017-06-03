@@ -1,2 +1,2 @@
 # yii2-abac
-implementing ABAC (Attribute Based Access Control) in Yii2 framework
+Implementing ABAC (Attribute Based Access Control) in Yii2 framework
