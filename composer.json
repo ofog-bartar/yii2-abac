@@ -17,8 +17,5 @@
         "psr-4": {
             "mhdshf\\abac\\": ""
         }
-    },
-    "extra": {
-        "bootstrap": "mhdshf\\abac\\Bootstrap"
     }
 }
