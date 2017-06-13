@@ -2,7 +2,7 @@
     "name": "mhd-shf/yii2-abac",
     "description":"Implementing ABAC (Attribute Based Access Control) in Yii2 framework",
     "type": "yii2-extension",
-    "license": "Apache-2.0",
+    "license": "MIT",
     "authors": [
         {
             "name": "Mohammad Shafiee",
@@ -10,16 +10,15 @@
             "homepage": "https://github.com/mhd-shf"
         }
     ],
-    "minimum-stability": "dev",
     "require": {
         "yiisoft/yii2": ">=2.0.4"
     },
     "autoload": {
         "psr-4": {
-            "abac\\": ["", "components/"]
+            "mhdshf\\abac\\": ""
         }
     },
     "extra": {
-        "bootstrap": "abac\\Bootstrap"
+        "bootstrap": "mhdshf\\abac\\Bootstrap"
     }
 }
